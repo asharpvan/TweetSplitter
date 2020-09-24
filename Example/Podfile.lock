@@ -1,0 +1,16 @@
+PODS:
+  - TweetSplitter (0.2.0)
+
+DEPENDENCIES:
+  - TweetSplitter (from `../`)
+
+EXTERNAL SOURCES:
+  TweetSplitter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TweetSplitter: edcf89ad08e43254127b8b94acc7c539b5e2e2b0
+
+PODFILE CHECKSUM: cb100c9cb31f358ad8f1dd6c205b09442fd52c68
+
+COCOAPODS: 1.9.3
