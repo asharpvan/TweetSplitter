@@ -11,8 +11,8 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface TSFile : NSObject
--(NSMutableArray *) tweet:(NSString *) message;
 
+-(NSMutableArray *) tweet:(NSString *) message;
 -(void) doSomething;
 
 @end
