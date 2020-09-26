@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TweetSplitter: edcf89ad08e43254127b8b94acc7c539b5e2e2b0
+  TweetSplitter: 0be95c1dd9fdfd682c63442f59c24739882bc5dc
 
 PODFILE CHECKSUM: cb100c9cb31f358ad8f1dd6c205b09442fd52c68
 

@@ -1,8 +1,8 @@
 {
   "name": "TweetSplitter",
   "version": "0.2.0",
-  "summary": "A short description of TweetSplitter.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Tweet splitter is a framwork that cuts down the large sentences into s small meaningful ones",
+  "description": "As a description I can say that Tweet splitter is a framwork that cuts down the large sentences into s small meaningful ones",
   "homepage": "https://github.com/asharpvan/TweetSplitter",
   "license": {
     "type": "MIT",

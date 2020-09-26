@@ -8,29 +8,29 @@
 
 /* Begin PBXBuildFile section */
 		1EC3152388F706DB0A2FA7E7FB54A796 /* Pods-iOSExampleTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C2B4FA0463202724BE0AB0ECAD38A8A /* Pods-iOSExampleTests-dummy.m */; };
-		3CFA083834E8B0E1BD7CC546BEBBEECA /* TSFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D1D1A74D9D817FB5D904DF67D3D511F /* TSFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		60602F8EC80690D2C8D028B9D711B494 /* TSManager.h in Headers */ = {isa = PBXBuildFile; fileRef = BD09F499EB0BB04AA41461E74D5A857B /* TSManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3CFA083834E8B0E1BD7CC546BEBBEECA /* TSFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 7DDAD49D3A0CBE4F940AEE0289213B8F /* TSFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		60602F8EC80690D2C8D028B9D711B494 /* TSManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 462D696A88FBBDBF2E68213CE118D293 /* TSManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		667812547E9FD48273E73D5259698E24 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		79FC1FC448744DA37ED7A5569FAB9014 /* TSFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 60E2753E16EB0F05DE2FE737B326833B /* TSFile.m */; };
+		79FC1FC448744DA37ED7A5569FAB9014 /* TSFile.m in Sources */ = {isa = PBXBuildFile; fileRef = AABED40C869793DB31BB6FEB0C8EE411 /* TSFile.m */; };
 		952E4EE98F6A2A8F41CE3DC8114011D7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		9BEC2AC3B906201C07A6114FC2C12657 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		9C2B2304F5EC4344B87979DFE57F95B8 /* Pods-iOSExample-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8735A724A9580CBE08FDE1BEC7C25A6B /* Pods-iOSExample-dummy.m */; };
-		A0E5B61F7D1B57EE40EF7EBD380640A1 /* TSManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A439BF18DE971C4E0B0B46777CD89F7D /* TSManager.m */; };
-		C4180920C0A0DCC6957C8EA5CE2B1B0E /* TweetSplitter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E2C3ADF432B0C0AA94C2E39B75C870AB /* TweetSplitter-dummy.m */; };
-		D1CCB28691EF5901AED3329690654397 /* TweetSplitter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AA015099412D25D10ADFE63D42B012D /* TweetSplitter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A0E5B61F7D1B57EE40EF7EBD380640A1 /* TSManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 98D94FC6E129448DAFE2D49AA4B791A4 /* TSManager.m */; };
+		C4180920C0A0DCC6957C8EA5CE2B1B0E /* TweetSplitter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BBD3986E3CA6B248ACBB5082F919C9D /* TweetSplitter-dummy.m */; };
+		D1CCB28691EF5901AED3329690654397 /* TweetSplitter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 132A89C1948A01B2428CF15D44321677 /* TweetSplitter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F6AAB6A1F6E7823E2247E822EA140454 /* Pods-iOSExample-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E0485FE1AC2E730D15C72603C48B396 /* Pods-iOSExample-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F92025C0EBAAFC1A9B012766F9883563 /* Pods-iOSExampleTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A82A064B1540941B4BCAFE598FE7B06 /* Pods-iOSExampleTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1744748E3DD6DEB4DF3300A56182EA4E /* PBXContainerItemProxy */ = {
+		86C0A87CEFAC3271BE684E71129C3E91 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = EC0239ADC967FE51FE68696E5354F31F;
 			remoteInfo = "Pods-iOSExample";
 		};
-		FA18AC22FCDE16AEEB1C268F694024F5 /* PBXContainerItemProxy */ = {
+		A48B5CAE3B338AD9BC7782AA39D5BEE5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -42,39 +42,40 @@
 /* Begin PBXFileReference section */
 		0AAE56360E54B729CD9CCA7CDC677E1A /* Pods-iOSExampleTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-iOSExampleTests.modulemap"; sourceTree = "<group>"; };
 		0F94F5B89752975CC36A2FA5325BE674 /* Pods_iOSExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_iOSExampleTests.framework; path = "Pods-iOSExampleTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		132A89C1948A01B2428CF15D44321677 /* TweetSplitter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TweetSplitter-umbrella.h"; sourceTree = "<group>"; };
 		17A87DA9EB492E47BC2A7A532464542D /* Pods-iOSExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iOSExample.release.xcconfig"; sourceTree = "<group>"; };
+		1C68BAD838D2C65ADC695298269A2D10 /* TweetSplitter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TweetSplitter.modulemap; sourceTree = "<group>"; };
+		1DDC33E3EA28F7011EA652F3BA4F976F /* TweetSplitter-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TweetSplitter-Info.plist"; sourceTree = "<group>"; };
+		1F7DF120AACAF62B8106F6CC84AAE55C /* TweetSplitter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TweetSplitter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1F9C4CF9B746FDAB0BB5682389938E68 /* Pods-iOSExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iOSExampleTests.release.xcconfig"; sourceTree = "<group>"; };
 		21F6BD78D975C8B91903F0AE15140DA1 /* Pods-iOSExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iOSExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 		279FE85C238F799AA766D911EC4A67F2 /* Pods-iOSExampleTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iOSExampleTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		317511FE48B107932570BE1EED1FCEAB /* Pods_iOSExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_iOSExample.framework; path = "Pods-iOSExample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		36F406BD1D4147996D834594F88638F8 /* TweetSplitter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TweetSplitter-prefix.pch"; sourceTree = "<group>"; };
 		3AB047171616271CF4EA2AC889CE257C /* TweetSplitter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TweetSplitter.framework; path = TweetSplitter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D132FFC4BFA2E68FEC5A3C26CDA72DD /* TweetSplitter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TweetSplitter.release.xcconfig; sourceTree = "<group>"; };
-		3FF405A4DA797A7EE945EF4E1F92FF85 /* TweetSplitter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TweetSplitter.debug.xcconfig; sourceTree = "<group>"; };
-		4AA015099412D25D10ADFE63D42B012D /* TweetSplitter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TweetSplitter-umbrella.h"; sourceTree = "<group>"; };
+		462D696A88FBBDBF2E68213CE118D293 /* TSManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TSManager.h; path = TweetSplitter/Classes/TSManager.h; sourceTree = "<group>"; };
 		512975FFA24E46006E0E73FFC34C8872 /* Pods-iOSExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iOSExample.debug.xcconfig"; sourceTree = "<group>"; };
-		53DA7B922CDAB94E0FEBFC37F980A37A /* TweetSplitter-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TweetSplitter-Info.plist"; sourceTree = "<group>"; };
-		589314BDBEC3FA90B42B9D8F2BF1DCCE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		5C2B4FA0463202724BE0AB0ECAD38A8A /* Pods-iOSExampleTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-iOSExampleTests-dummy.m"; sourceTree = "<group>"; };
-		60E2753E16EB0F05DE2FE737B326833B /* TSFile.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TSFile.m; path = TweetSplitter/Classes/TSFile.m; sourceTree = "<group>"; };
-		6D1D1A74D9D817FB5D904DF67D3D511F /* TSFile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TSFile.h; path = TweetSplitter/Classes/TSFile.h; sourceTree = "<group>"; };
+		62B2A757B7BEC38985EF49FB81D5C153 /* TweetSplitter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TweetSplitter.release.xcconfig; sourceTree = "<group>"; };
 		71115AAC1E198C1F1209DBC67B17D4FE /* Pods-iOSExample-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-iOSExample-frameworks.sh"; sourceTree = "<group>"; };
+		71EA95F1F289B8C80F8C170FE124CD13 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		7DDAD49D3A0CBE4F940AEE0289213B8F /* TSFile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TSFile.h; path = TweetSplitter/Classes/TSFile.h; sourceTree = "<group>"; };
 		7E1DF37E2C742053929FAC5DD9AFBBE5 /* Pods-iOSExampleTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-iOSExampleTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8735A724A9580CBE08FDE1BEC7C25A6B /* Pods-iOSExample-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-iOSExample-dummy.m"; sourceTree = "<group>"; };
 		8A82A064B1540941B4BCAFE598FE7B06 /* Pods-iOSExampleTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-iOSExampleTests-umbrella.h"; sourceTree = "<group>"; };
 		8E0485FE1AC2E730D15C72603C48B396 /* Pods-iOSExample-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-iOSExample-umbrella.h"; sourceTree = "<group>"; };
+		98D94FC6E129448DAFE2D49AA4B791A4 /* TSManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TSManager.m; path = TweetSplitter/Classes/TSManager.m; sourceTree = "<group>"; };
+		9BBD3986E3CA6B248ACBB5082F919C9D /* TweetSplitter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TweetSplitter-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A439BF18DE971C4E0B0B46777CD89F7D /* TSManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TSManager.m; path = TweetSplitter/Classes/TSManager.m; sourceTree = "<group>"; };
-		AA80AEC4E7FE5129040BDC6DC2F34326 /* TweetSplitter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TweetSplitter.modulemap; sourceTree = "<group>"; };
+		AABED40C869793DB31BB6FEB0C8EE411 /* TSFile.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TSFile.m; path = TweetSplitter/Classes/TSFile.m; sourceTree = "<group>"; };
 		B4AC13FF6613AC3527247482A4FD4306 /* Pods-iOSExample-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iOSExample-acknowledgements.plist"; sourceTree = "<group>"; };
-		BD09F499EB0BB04AA41461E74D5A857B /* TSManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TSManager.h; path = TweetSplitter/Classes/TSManager.h; sourceTree = "<group>"; };
+		BBCCBFDDEDF2FD5506E82F43B09C62B0 /* TweetSplitter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TweetSplitter-prefix.pch"; sourceTree = "<group>"; };
 		D1ACA1DBB995289015DFE392D3866DEA /* Pods-iOSExample-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iOSExample-Info.plist"; sourceTree = "<group>"; };
 		DAC0BE3B414CE460AFE5757D8F45934E /* Pods-iOSExample-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-iOSExample-acknowledgements.markdown"; sourceTree = "<group>"; };
-		E2C3ADF432B0C0AA94C2E39B75C870AB /* TweetSplitter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TweetSplitter-dummy.m"; sourceTree = "<group>"; };
+		EA932ECD59AE84D9E97F6FC954DEEA4B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		EB44A3CA408572169EF8567111158466 /* Pods-iOSExampleTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iOSExampleTests-Info.plist"; sourceTree = "<group>"; };
 		F02C1F7A8DFBCAFCAF2CB0C3203686EA /* Pods-iOSExample.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-iOSExample.modulemap"; sourceTree = "<group>"; };
-		F8CF27306BFF06D2DC004A8255334E4D /* TweetSplitter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TweetSplitter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F385D47CA9F09A380D156BB059D5A82F /* TweetSplitter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TweetSplitter.debug.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +139,35 @@
 			path = "Target Support Files/Pods-iOSExample";
 			sourceTree = "<group>";
 		};
+		51CA27B986EFD9D09CFCC3AAF6CE1B37 /* TweetSplitter */ = {
+			isa = PBXGroup;
+			children = (
+				7DDAD49D3A0CBE4F940AEE0289213B8F /* TSFile.h */,
+				AABED40C869793DB31BB6FEB0C8EE411 /* TSFile.m */,
+				462D696A88FBBDBF2E68213CE118D293 /* TSManager.h */,
+				98D94FC6E129448DAFE2D49AA4B791A4 /* TSManager.m */,
+				7F62EAC4DEA310E0A3F91C38B8024DE4 /* Pod */,
+				5E1EA8A73D30E5748B6DDA535A368545 /* Support Files */,
+			);
+			name = TweetSplitter;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		5E1EA8A73D30E5748B6DDA535A368545 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1C68BAD838D2C65ADC695298269A2D10 /* TweetSplitter.modulemap */,
+				9BBD3986E3CA6B248ACBB5082F919C9D /* TweetSplitter-dummy.m */,
+				1DDC33E3EA28F7011EA652F3BA4F976F /* TweetSplitter-Info.plist */,
+				BBCCBFDDEDF2FD5506E82F43B09C62B0 /* TweetSplitter-prefix.pch */,
+				132A89C1948A01B2428CF15D44321677 /* TweetSplitter-umbrella.h */,
+				F385D47CA9F09A380D156BB059D5A82F /* TweetSplitter.debug.xcconfig */,
+				62B2A757B7BEC38985EF49FB81D5C153 /* TweetSplitter.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/TweetSplitter";
+			sourceTree = "<group>";
+		};
 		656E34F942DFAD8C09C573982AB88206 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -146,6 +176,16 @@
 				3AB047171616271CF4EA2AC889CE257C /* TweetSplitter.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		7F62EAC4DEA310E0A3F91C38B8024DE4 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				EA932ECD59AE84D9E97F6FC954DEEA4B /* LICENSE */,
+				71EA95F1F289B8C80F8C170FE124CD13 /* README.md */,
+				1F7DF120AACAF62B8106F6CC84AAE55C /* TweetSplitter.podspec */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		A4E61B46C8D75D5DF6998736302325AF /* Targets Support Files */ = {
@@ -157,19 +197,10 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		B11DC6923AB40AF6654F2C68DD8EAF62 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				589314BDBEC3FA90B42B9D8F2BF1DCCE /* README.md */,
-				F8CF27306BFF06D2DC004A8255334E4D /* TweetSplitter.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		BBF932B81157D3D581C5EF7EA0C2984E /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D61ABDD9C90FA2F90EB6F0C22AB516D6 /* TweetSplitter */,
+				51CA27B986EFD9D09CFCC3AAF6CE1B37 /* TweetSplitter */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -199,35 +230,6 @@
 				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D61ABDD9C90FA2F90EB6F0C22AB516D6 /* TweetSplitter */ = {
-			isa = PBXGroup;
-			children = (
-				6D1D1A74D9D817FB5D904DF67D3D511F /* TSFile.h */,
-				60E2753E16EB0F05DE2FE737B326833B /* TSFile.m */,
-				BD09F499EB0BB04AA41461E74D5A857B /* TSManager.h */,
-				A439BF18DE971C4E0B0B46777CD89F7D /* TSManager.m */,
-				B11DC6923AB40AF6654F2C68DD8EAF62 /* Pod */,
-				DB65152C6C0A49C87B92C539BD7A5220 /* Support Files */,
-			);
-			name = TweetSplitter;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		DB65152C6C0A49C87B92C539BD7A5220 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				AA80AEC4E7FE5129040BDC6DC2F34326 /* TweetSplitter.modulemap */,
-				E2C3ADF432B0C0AA94C2E39B75C870AB /* TweetSplitter-dummy.m */,
-				53DA7B922CDAB94E0FEBFC37F980A37A /* TweetSplitter-Info.plist */,
-				36F406BD1D4147996D834594F88638F8 /* TweetSplitter-prefix.pch */,
-				4AA015099412D25D10ADFE63D42B012D /* TweetSplitter-umbrella.h */,
-				3FF405A4DA797A7EE945EF4E1F92FF85 /* TweetSplitter.debug.xcconfig */,
-				3D132FFC4BFA2E68FEC5A3C26CDA72DD /* TweetSplitter.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/TweetSplitter";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -292,7 +294,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				BFBA9F175C91740F0C900CC18A920BB7 /* PBXTargetDependency */,
+				17B3AC8C844407404610C8300B321177 /* PBXTargetDependency */,
 			);
 			name = "Pods-iOSExampleTests";
 			productName = "Pods-iOSExampleTests";
@@ -311,7 +313,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				2AFCCE6E07457873D3DE9C44F8921479 /* PBXTargetDependency */,
+				F8A4A85F9AC6F8EFEF61C9F9DEF7D12E /* PBXTargetDependency */,
 			);
 			name = "Pods-iOSExample";
 			productName = "Pods-iOSExample";
@@ -401,17 +403,17 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2AFCCE6E07457873D3DE9C44F8921479 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = TweetSplitter;
-			target = 218899B7B4CB0C38A775A94E4503B384 /* TweetSplitter */;
-			targetProxy = FA18AC22FCDE16AEEB1C268F694024F5 /* PBXContainerItemProxy */;
-		};
-		BFBA9F175C91740F0C900CC18A920BB7 /* PBXTargetDependency */ = {
+		17B3AC8C844407404610C8300B321177 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-iOSExample";
 			target = EC0239ADC967FE51FE68696E5354F31F /* Pods-iOSExample */;
-			targetProxy = 1744748E3DD6DEB4DF3300A56182EA4E /* PBXContainerItemProxy */;
+			targetProxy = 86C0A87CEFAC3271BE684E71129C3E91 /* PBXContainerItemProxy */;
+		};
+		F8A4A85F9AC6F8EFEF61C9F9DEF7D12E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = TweetSplitter;
+			target = 218899B7B4CB0C38A775A94E4503B384 /* TweetSplitter */;
+			targetProxy = A48B5CAE3B338AD9BC7782AA39D5BEE5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -496,7 +498,7 @@
 		};
 		98F2240D9053C5F1E90D0E625A0405D4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3D132FFC4BFA2E68FEC5A3C26CDA72DD /* TweetSplitter.release.xcconfig */;
+			baseConfigurationReference = 62B2A757B7BEC38985EF49FB81D5C153 /* TweetSplitter.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -633,7 +635,7 @@
 		};
 		E616F42C10C6B1A6FFACF0D1899AFE61 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3FF405A4DA797A7EE945EF4E1F92FF85 /* TweetSplitter.debug.xcconfig */;
+			baseConfigurationReference = F385D47CA9F09A380D156BB059D5A82F /* TweetSplitter.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
